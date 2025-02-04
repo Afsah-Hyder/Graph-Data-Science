@@ -9,5 +9,6 @@ Graph Analytics: Implement algorithms like pathfinding, centrality, community de
 Machine Learning: Apply node classification, link prediction, and graph neural networks (GNNs).
 
 **Technologies**
-Graph Database: Neo4j
+Graph Database: Neo4j 
+
 Graph Query Language: Cypher
